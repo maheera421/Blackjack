@@ -31,8 +31,8 @@ Welcome to the world of Blackjack! This game follows classic Blackjack rules wit
 
 # 🔒 Code Specifications:
 
-- The code uses an external module `art` and `clear()` function. These external files are kept private and can be provided upon request.
-
+- The code uses an external module `art` and `clear()` function.
+  
 - The game follows the described house rules, including handling the value of the Ace and checking for Blackjack.
 
 - Players are prompted to continue playing as long as they choose to play again.
@@ -41,6 +41,3 @@ Welcome to the world of Blackjack! This game follows classic Blackjack rules wit
 
 - The game loops and allows for multiple rounds until the player decides to quit.
 
-# 📝 Note:
-
-Please note that the external file `art` and `clear()` function are not included in the code posted on GitHub. Users who wish to run this code will need to request access to these separately to ensure the full functionality of the game.
